@@ -1,0 +1,36 @@
+{
+  "environments": {
+    "Environment for Contributor user level ": "953b6c4d-a486-44de-a1ee-e2ed8ae7f120"
+  },
+  "assets": {
+    "contentLayouts": [],
+    "pageLayouts": [],
+    "media": [
+      {
+        "id": 135,
+        "description": "style-local.css",
+        "projectPath": "medias/Categorised/Sample Site/Site Assets/CSS/style-local.css"
+      },
+      {
+        "id": 4635,
+        "description": "screen.css",
+        "projectPath": "medias/Categorised/Sample Site/Site Assets/CSS/screen.css"
+      },
+      {
+        "id": 4767,
+        "description": "print.css",
+        "projectPath": "medias/Categorised/Sample Site/Site Assets/CSS/print.css"
+      },
+      {
+        "id": 4783,
+        "description": "slick.min.css",
+        "projectPath": "medias/Categorised/Sample Site/Site Assets/CSS/slick.css"
+      },
+      {
+        "id": 4784,
+        "description": "slick-theme.min.css",
+        "projectPath": "medias/Categorised/Sample Site/Site Assets/CSS/slick-theme.css"
+      }
+    ]
+  }
+}
